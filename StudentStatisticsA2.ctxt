@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StudentStatisticsA2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentStatisticsA2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ of\ the\ program.\ It\ presents\ a\ menu\ system\ to\ the\ user\ for\ various\ operations\ on\ student\ data.\r\n\r\n\ @param\ args\ The\ command-line\ arguments.\r\n
+comment2.params=fileName
+comment2.target=void\ readCSVFile(java.lang.String)
+comment2.text=\r\n\ Reads\ student\ data\ from\ a\ comma\ delimeted\ CSV\ file\ and\ populates\ the\ 'students'\ list.\r\n\r\n\ @param\ fileName\ The\ name\ of\ the\ CSV\ file\ to\ read.\r\n
+comment3.params=
+comment3.target=void\ calculateTotalMarks()
+comment3.text=\r\n\ Calculates\ and\ prints\ the\ total\ marks\ for\ all\ students.\r\n
+comment4.params=threshold
+comment4.target=void\ printStudentsBelowThreshold(double)
+comment4.text=\r\n\ Prints\ the\ list\ of\ students\ below\ a\ given\ threshold.\r\n\r\n\ @param\ threshold\ The\ threshold\ value\ for\ total\ marks.\r\n
+comment5.params=
+comment5.target=void\ printTopAndBottomStudents()
+comment5.text=\r\n\ Prints\ the\ top\ and\ bottom\ students\ based\ on\ their\ total\ marks.\r\n
+numComments=6

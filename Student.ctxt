@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ The\ Student\ class\ represents\ a\ student\ with\ their\ personal\ information\ and\ assignment\ marks.\r\n\ It\ includes\ fields\ for\ the\ student's\ last\ name,\ first\ name,\ student\ ID,\ and\ assignment\ marks.\r\n\ The\ class\ provides\ methods\ to\ retrieve\ these\ details\ and\ calculate\ the\ total\ marks\ for\ the\ student.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lastName\ firstName\ studentID\ marks
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ double[])
+comment1.text=\r\n\ Constructs\ a\ new\ Student\ object\ with\ the\ specified\ personal\ information\ and\ assignment\ marks.\r\n\r\n\ @param\ lastName\ \ \ The\ last\ name\ of\ the\ student.\r\n\ @param\ firstName\ \ The\ first\ name\ of\ the\ student.\r\n\ @param\ studentID\ \ The\ unique\ student\ ID.\r\n\ @param\ marks\ \ \ \ \ \ An\ array\ of\ assignment\ marks\ for\ the\ student.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment2.text=\r\n\ Gets\ the\ last\ name\ of\ the\ student.\r\n\r\n\ @return\ The\ last\ name\ of\ the\ student.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment3.text=\r\n\ Gets\ the\ first\ name\ of\ the\ student.\r\n\r\n\ @return\ The\ first\ name\ of\ the\ student.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStudentID()
+comment4.text=\r\n\ Gets\ the\ student's\ unique\ ID.\r\n\r\n\ @return\ The\ student's\ unique\ ID.\r\n
+comment5.params=
+comment5.target=double[]\ getMarks()
+comment5.text=\r\n\ Gets\ an\ array\ of\ assignment\ marks\ for\ the\ student.\r\n\r\n\ @return\ An\ array\ of\ assignment\ marks\ for\ the\ student.\r\n
+comment6.params=
+comment6.target=double\ calculateTotalMarks()
+comment6.text=\r\n\ Calculates\ the\ total\ marks\ for\ the\ student\ based\ on\ their\ assignment\ marks.\r\n\r\n\ @return\ The\ total\ marks\ achieved\ by\ the\ student.\r\n
+numComments=7
